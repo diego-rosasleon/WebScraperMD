@@ -51,3 +51,8 @@ el usuario ya que cada computadora tiene
 una propia.
 -Una vez hecho el paso anterior, debe correr 
 todo el código y se verán los resultados.
+
+Aclaración: se hizo un commit alrededor de
+las 9:45 para subir la carpeta Docs, puesto 
+que se acalró este punto alrededor de las
+9:30.
